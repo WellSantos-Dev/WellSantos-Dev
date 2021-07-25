@@ -2,14 +2,13 @@
 
 ## 👋 I’m Wellington Santos
 ##### I'live in 🇧🇷, North Coast 🌅 😎.
-<br>
-## currently learning
+
+## currently learning:
 <div display="flex" width="100%">
 <img align="center" alt="Learning-HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
 <img align="center" alt="Learning-CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 <img align="center" alt="Learning-JS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 </div>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WellSantos-Dev&layout=compact)
 
 
 ![WellSantos-Dev GitHub stats](https://github-readme-stats.vercel.app/api?username=WellSantos-Dev&show_icons=true&theme=dracula)
