@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Wellington Santos
-- 👀 I’m interested in ReactJS and 
+- 👀 I’m interested in ReactJS
 - 🌱 I’m currently learning HTML, CSS and JavaScript
 
 <!---
