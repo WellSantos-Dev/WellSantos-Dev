@@ -1,12 +1,11 @@
-<h1>Hello Friend</h1>
+# Hello, Friend.
 
 - 👋 I’m Wellington Santos
 - I'live in 🇧🇷, North Coast 🌅 😎.
 
-<h2 font-family='arial' font-weight='normal'>currently learning</h1>
-<img align="center" alt="Learning-CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-<img align="center" alt="Learning-CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-<img align="center" alt="Learning-CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+## currently learning
+<img align="center" alt="Learning-CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"><img align="center" alt="Learning-CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+<img align="center" alt="Learning-CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 
 
 <!---
