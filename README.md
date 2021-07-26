@@ -14,8 +14,9 @@ I'live in 🇧🇷, North Coast 🌅.
 <img align="center" alt="Learning-JS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 </div><br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WellSantos-Dev&langs_count=8)
 ![WellSantos-Dev GitHub stats](https://github-readme-stats.vercel.app/api?username=WellSantos-Dev&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WellSantos-Dev&langs_count=8)
+
 
 
 
