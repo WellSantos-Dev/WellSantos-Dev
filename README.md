@@ -1,7 +1,7 @@
 # Hello, Friend.
 
 ## 👋 I’m Wellington Santos
-<p>I'm a front-end developer passionate about the best web development technologies. I am a student at B7Web, where I learned in practice the most modern web development technologies.</p>
+<p>I'm a front-end developer passionate about the best web development technologies. I am a student at B7Web and Origamid, where I learned in practice the most modern web development technologies.</p>
 I'live in 🇧🇷, North Coast 🌅.
 
 ## currently learning:
