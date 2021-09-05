@@ -3,6 +3,7 @@
 ## 👋 I’m Wellington Santos
 <p>I'm a front-end developer passionate about the best web development technologies. I am a student at B7Web and Origamid, where I learned in practice the most modern web development technologies.<br> 
 I'm recently learning PHP, but I don't consider myself full stack, as I STILL don't have php projects. I'm learning!</p>
+![dormrm](https://user-images.githubusercontent.com/87905157/132112143-7643d095-a1b6-481f-9a55-c146ee0cff5b.gif)
 
 
 
