@@ -22,7 +22,6 @@
   <h1 text-align: "center">ᴛᴇɴʜᴏ ɪɴᴛᴇʀᴇssᴇ ᴇᴍ ᴀᴘʀᴇɴᴅᴇʀ: </h1>
   <img alt="Learning-REACT" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img alt="Learning-Jquery" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg">
-  <img alt="Learning-Jquery" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg">
   <img alt="Learning-Jquery" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 
 
