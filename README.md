@@ -1,7 +1,7 @@
 Conta nova 
 <div>
   <h1>ʜᴇʟʟᴏ, ғʀɪᴇɴᴅ</h1>
-  <h5>sᴏᴜ ᴅᴇsᴇɴᴠᴏʟᴠᴇᴅᴏʀ ғᴜʟʟ-sᴛᴀᴄᴋ. ᴀʟᴜɴᴏ ᴅᴀ ʙ7ᴡᴇʙ, DIO ᴇ ᴏʀɪɢᴀᴍɪᴅ ᴏɴᴅᴇ ᴇᴜ ᴀᴘʀᴇɴᴅᴏ ɴᴀ ᴘʀᴀᴛɪᴄᴀ ᴀs ᴘʀɪɴᴄɪᴘᴀɪs ᴛᴇᴄɴᴏʟᴏɢɪᴀs ᴅᴏ ᴍᴇʀᴄᴀᴅᴏ.</h5> 
+  <h5>sᴏᴜ ᴅᴇsᴇɴᴠᴏʟᴠᴇᴅᴏʀ Front-End. ᴀʟᴜɴᴏ ᴅᴀ ʙ7ᴡᴇʙ, DIO ᴇ ᴏʀɪɢᴀᴍɪᴅ ᴏɴᴅᴇ ᴇᴜ ᴀᴘʀᴇɴᴅᴏ ɴᴀ ᴘʀᴀᴛɪᴄᴀ ᴀs ᴘʀɪɴᴄɪᴘᴀɪs ᴛᴇᴄɴᴏʟᴏɢɪᴀs ᴅᴏ ᴍᴇʀᴄᴀᴅᴏ.</h5> 
 </div>
 <div>
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=WellSantos-Dev&show_icons=true&theme=dracula">
