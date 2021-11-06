@@ -1,7 +1,7 @@
 
 <div>
   <h1>ʜᴇʟʟᴏ, ғʀɪᴇɴᴅ</h1>
-  <h5>sᴏᴜ ᴅᴇsᴇɴᴠᴏʟᴠᴇᴅᴏʀ Front-End. ᴀʟᴜɴᴏ ᴅᴀ ʙ7ᴡᴇʙ, DIO ᴇ ᴏʀɪɢᴀᴍɪᴅ ᴏɴᴅᴇ ᴇᴜ ᴀᴘʀᴇɴᴅᴏ ɴᴀ ᴘʀᴀᴛɪᴄᴀ ᴀs ᴘʀɪɴᴄɪᴘᴀɪs ᴛᴇᴄɴᴏʟᴏɢɪᴀs ᴅᴏ ᴍᴇʀᴄᴀᴅᴏ.</h5>
+  <h5>sᴏᴜ ᴅᴇsᴇɴᴠᴏʟᴠᴇᴅᴏʀ Full Stack. ᴀʟᴜɴᴏ ᴅᴀ ʙ7ᴡᴇʙ, DIO ᴇ ᴏʀɪɢᴀᴍɪᴅ ᴏɴᴅᴇ ᴇᴜ ᴀᴘʀᴇɴᴅᴏ ɴᴀ ᴘʀᴀᴛɪᴄᴀ ᴀs ᴘʀɪɴᴄɪᴘᴀɪs ᴛᴇᴄɴᴏʟᴏɢɪᴀs ᴅᴏ ᴍᴇʀᴄᴀᴅᴏ.</h5>
   <h5>Atualmente estou aprendendo inglês na plataforma da English Fish<h5>
 </div>
 <div>
