@@ -1,7 +1,7 @@
 
 <div>
   <h1>ʜᴇʟʟᴏ, ғʀɪᴇɴᴅ</h1>
-  <h5>sᴏᴜ ᴅᴇsᴇɴᴠᴏʟᴠᴇᴅᴏʀ Full Stack. ᴀʟᴜɴᴏ ᴅᴀ ʙ7ᴡᴇʙ ᴇ ᴏʀɪɢᴀᴍɪᴅ ᴏɴᴅᴇ ᴇᴜ ᴀᴘʀᴇɴᴅᴏ ɴᴀ ᴘʀᴀᴛɪᴄᴀ ᴀs ᴘʀɪɴᴄɪᴘᴀɪs ᴛᴇᴄɴᴏʟᴏɢɪᴀs ᴅᴏ ᴍᴇʀᴄᴀᴅᴏ.</h5>
+  <h5>sᴏᴜ ᴅᴇsᴇɴᴠᴏʟᴠᴇᴅᴏʀ Full Stack. ᴀʟᴜɴᴏ ᴅᴀ ʙ7ᴡᴇʙ, Alura ᴇ ᴏʀɪɢᴀᴍɪᴅ ᴏɴᴅᴇ ᴇᴜ ᴀᴘʀᴇɴᴅᴏ ɴᴀ ᴘʀᴀᴛɪᴄᴀ ᴀs ᴘʀɪɴᴄɪᴘᴀɪs ᴛᴇᴄɴᴏʟᴏɢɪᴀs ᴅᴏ ᴍᴇʀᴄᴀᴅᴏ.</h5>
   <h5>Atualmente estou aprendendo inglês na plataforma The effortless english club e Mairo Vergara 5.0 (Fase do "Mar")<h5>
 </div>
 <div>
